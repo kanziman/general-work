@@ -1,0 +1,14 @@
+# Obsidian system folders and files
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/indexedDB/
+
+# OS templates
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
