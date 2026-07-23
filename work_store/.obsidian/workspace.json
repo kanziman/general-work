@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "77f6b0a3eed6b0a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "542e5bb6089eef9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8400238e46d5cf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_MOC/멤버십 보고서 MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "멤버십 보고서 MOC"
+            }
+          }
+        ]
+      },
+      {
+        "id": "17c428c2c01fe627",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77344a3d2b6f748c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf957e46e6e247ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "442f8ecee1f8c22a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7f9e28601563647",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "ca6a03401087c604",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "43d14aa155ab70b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1b61ad3d1e534c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "96c52ee31ccf2aa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ee7ef8601520076",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_MOC/멤버십 보고서 MOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "멤버십 보고서 MOC 의 백링크"
+            }
+          },
+          {
+            "id": "853fc51412e0170f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_MOC/멤버십 보고서 MOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "멤버십 보고서 MOC 의 나가는 링크"
+            }
+          },
+          {
+            "id": "dfb4ed4da0259d8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "d9f78fb5957abf27",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "3a19afa8d668b294",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_MOC/멤버십 보고서 MOC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "멤버십 보고서 MOC 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "c8400238e46d5cf6",
+  "lastOpenFiles": [
+    "00_MOC/🏠 업무지식창고 홈.md",
+    "00_MOC/멤버십 보고서 MOC.md",
+    "10_보고서/주간 멤버십 캠페인 성과 보고서.md",
+    "20_회의록/멤버십팀 6월 3주차 주간회의.md",
+    "00_MOC/회의록 MOC.md",
+    "00_MOC/지식 MOC.md",
+    "00_MOC/자료 MOC.md",
+    "환영합니다!.md",
+    "30_지식/앱 재방문율(Retention)이란.md",
+    "90_자료/6월 등급UP 더블적립 이벤트 성과 로우데이터.md",
+    "CLAUDE.md",
+    "90_자료",
+    "40_메일",
+    "30_지식",
+    "20_회의록",
+    "10_보고서",
+    "00_MOC"
+  ]
+}
